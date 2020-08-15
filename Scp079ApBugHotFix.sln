@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scp079ApBugHotFix", "Scp079ApBugHotFix\Scp079ApBugHotFix.csproj", "{DC6A6035-FB6B-4844-9415-5D4997A7B5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6A6035-FB6B-4844-9415-5D4997A7B5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6A6035-FB6B-4844-9415-5D4997A7B5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6A6035-FB6B-4844-9415-5D4997A7B5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6A6035-FB6B-4844-9415-5D4997A7B5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

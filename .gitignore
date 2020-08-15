@@ -1,0 +1,8 @@
+*.suo
+*.user
+[Bb]uilds/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+.vs/
+.idea/
